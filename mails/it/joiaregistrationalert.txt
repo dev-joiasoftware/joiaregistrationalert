@@ -1,0 +1,11 @@
+Ciao,
+Nuova registrazione Account su {shop_url}:
+
+Nome: {firstname} {lastname} 
+Email: {email}
+Birthday: {birthday}
+Newsletter: {newsletter}
+Nazione: {country}
+Azienda: {company}
+
+--

@@ -1,0 +1,10 @@
+Hello,
+New Account Registration at {shop_url}:
+
+Name: {firstname} {lastname} 
+Email: {email}
+Birthday: {birthday}
+Subscribe newsletter: {newsletter}
+Country: {country}
+Company: {company}
+--

@@ -1,0 +1,1 @@
+# Notify me on customer registration
